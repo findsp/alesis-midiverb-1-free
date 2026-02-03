@@ -1,3 +1,5 @@
+![Alesis MIDIVERB](https://raw.githubusercontent.com/findsp/alesis-midiverb-1-free/refs/heads/main/images/alesis-midiverb-1.png)
+
 ## About This Library
 
 Before we start: this library of **59 true stereo impulse responses** is **completely free**. You can pay any amount you like, but anything above $0 is purely optional and very much appreciated.
