@@ -2,7 +2,8 @@
 
 ## About This Library
 
-Before we start: this library of **59 true stereo impulse responses** is **completely free**. You can pay any amount you like, but anything above $0 is purely optional and very much appreciated (to original provider <a href="https://silent5.gumroad.com/" target="_blank" rel="noopener noreferrer">https://silent5.gumroad.com/</a>).
+**Before we start:** 
+This library of **59 true stereo impulse responses** is **completely free**. You can pay any amount you like, but anything above $0 is purely optional and very much appreciated (to original provider <a href="https://silent5.gumroad.com/" target="_blank" rel="noopener noreferrer">https://silent5.gumroad.com/</a>).
 
 The **Alesis MIDIVERB** is a budget-friendly digital reverb unit released in **1986**. It’s a preset-only machine, but it contains some genuinely characterful, grainy reverbs. Several of the smaller room presets work especially well when used subtly, adding a sense of *air* and depth without overwhelming a mix.
 
